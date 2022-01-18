@@ -1,0 +1,45 @@
+.client {
+    display: grid;
+    grid-template-columns: 40% 19% 19% 19% 3%;
+    font-size: 14px;
+    align-items: center;
+    border-top: 1px solid #DFE0EB;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.client div span {
+    color: #C5C7CD;
+}
+
+.client button {
+    background-color: #F12B2C;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+}
+
+.client:hover {
+    background-color: #F7F8FC;
+}
+
+.faceClient {
+    display: flex;
+    align-items: center;
+}
+
+.client-image {
+    border-radius: 100%;;
+}
+
+.client-name {
+    margin-left: 20px;
+}
+
+.menu-client-icon {
+    color: #C5C7CD;
+}
+
+
+

@@ -1,0 +1,9 @@
+.contents {
+    background-color: rgb(255, 255, 255);
+    border: solid 1px #DFE0EB;
+    border-radius: 8px;
+    padding: 25px;
+    overflow-y: auto;
+    height: 100%;
+    margin-bottom: 15px;
+}

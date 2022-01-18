@@ -1,0 +1,11 @@
+.bg {
+    display: flex;
+    flex-direction: column;
+    background-color: #363740;
+    /* width: max(14vw, 250px); */
+    height: 100vh;
+}
+
+.menuItems {
+    width: 100%;
+}

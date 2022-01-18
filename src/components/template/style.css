@@ -1,0 +1,11 @@
+.layout {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+}
+
+.layout-body {
+    margin: 0 30px 0 30px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}

@@ -1,0 +1,45 @@
+.header {
+    display: flex;
+    margin: 35px 0;
+    align-items: center;
+    justify-content: space-between
+}
+
+.title {
+    color: #252733;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+}
+
+
+.image {
+    border-radius: 100%;
+    border: 1px solid #DFE0EB !important;
+}
+
+.divisor {
+    margin-right: 12px;
+    border: 1px solid #DFE0EB;
+    width: 0;
+    height: 35px;
+}
+
+.notification {
+    cursor: pointer;
+    margin-right: 12px;
+    color: #c5cdc7;
+}
+
+.notification:hover {
+    color: #56a178;
+    
+}
+
+.name {
+    margin-right: 12px;
+}
